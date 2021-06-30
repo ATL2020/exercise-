@@ -6,10 +6,7 @@ HomeLight is a company that matches home sellers with pre-approved cash buyers t
 
 
 Mr UHer and his wife had difficulty finding the right realator
-<<<<<<< HEAD
-hhhfhfhfhfhfhfhfhfhfhfhfhhhh n nnjfjf mcnnntetetettststgbfftupfate
-=======
 teset push try 7
 .gitkeep
 gggbvb bbbb edit read me
->>>>>>> 6febbbdbfd0a819b89d406b950a3fac803519002
+New text to update commmit
